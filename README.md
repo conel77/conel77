@@ -23,4 +23,14 @@ Hello everyone 👋 I am AI engineer and Front-end programmer.
 * B.S. Electronic Engineering & Artificial Intelligence , Ajou University 
 
 ## Project
-* 
+### Startup
+* World-OKTA Next Generation Global Start-up & Trade School (2021.09~2021.10)
+* EDA Startup Club (2022.03~ 2022.09)
+* ReadyMe Onboarding PM Course (2022.03~ 2022.04)
+* Naver SmartStore (2022.09 ~)
+
+### AI
+* Ajou StudyGroup - Deeplearning (2022.03 ~ 2022.12)
+* NUOVO AI Small conference - Keras, Pytorch, OpenCV (2022.03 ~ 2022.12)
+* Deeplearning School in Seoul national university (2022.07 ~ 2022.08)
+* Capstone design project - about AI training helper platform (2022.09 ~ 2022.12)
