@@ -1,4 +1,11 @@
-### Hi there 👋
+## Profile
+### Hello everyone 👋 I am AI engineer and Front-end programmer.
+
+
+## Skills
+### Platforms & Language
+<img src="file:///Users/shinminkyoung/Downloads/react.svg?style=flat-square&logo=React&logoColor=#61DAFB"/>
+
 
 <!--
 **conel77/conel77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
