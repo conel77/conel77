@@ -1,6 +1,8 @@
-## Nice way to meet me
-### Hello everyone 👋 I am AI engineer and Front-end programmer.
-<a href="https://velog.io/@conel77" target="_blank"><img src="https://img.shields.io/badge/Conel77-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+## 🧚🏻‍♀️ Nice way to meet me
+
+<a href="https://velog.io/@conel77" target="_blank"><img src="https://img.shields.io/badge/Conel77-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>  <a href="17innovation@gmail.com" target="_blank"><img src="https://img.shields.io/badge/17innovation@gmail.com-20C997?style=flat-square&logo=Gmail&logoColor=white"/></a>
+Hello everyone 👋 I am AI engineer and Front-end programmer.
+
 
 
 
