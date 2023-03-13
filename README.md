@@ -22,6 +22,10 @@ Hello everyone 👋 I am AI engineer and Front-end programmer.
 ## Education
 * B.S. Electronic Engineering & Artificial Intelligence , Ajou University 
 
+## Career
+* MSPL Lab Intern (2022.12 ~)
+* NeuralWorksLab PM Intern (2023.03 ~)
+
 ## Project
 ### Startup
 * World-OKTA Next Generation Global Start-up & Trade School (2021.09~2021.10)
