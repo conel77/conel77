@@ -4,7 +4,7 @@
 
 ## Skills
 ### Platforms & Language
-<img src="file:///Users/shinminkyoung/Downloads/react.svg?style=flat-square&logo=React&logoColor=#61DAFB"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 
 <!--
