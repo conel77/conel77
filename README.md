@@ -23,7 +23,7 @@ Hello everyone 👋 I am AI engineer and Front-end programmer.
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conel77&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conel77&show_icons=true&theme=codeSTACKr)
 
 ## 📌 Education
 * B.S. Electronic Engineering & Artificial Intelligence , Ajou University 
