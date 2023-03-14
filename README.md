@@ -35,7 +35,7 @@ Hello everyone 👋 I am AI engineer and Front-end programmer.
 ## 🔮 Projects
 ### Startup
 * World-OKTA Next Generation Global Start-up & Trade School (2021.09~2021.10)
-* EDA Startup Club (2022.03~ 2022.09)
+* EDA Startup Club - Super resolution model for restoring K-pop idols (2022.03~ 2022.09)
 * ReadyMe Onboarding PM Course (2022.03~ 2022.04)
 * Naver SmartStore (2022.09 ~)
 
