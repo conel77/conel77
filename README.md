@@ -25,14 +25,14 @@ Hello everyone 👋 I am AI engineer and Front-end programmer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conel77&show_icons=true&theme=radical)
 
-## Education
+## 📌 Education
 * B.S. Electronic Engineering & Artificial Intelligence , Ajou University 
 
-## Career
+## 📔 Career
 * MSPL Lab Intern (2022.12 ~)
 * NeuralWorksLab PM Intern (2023.03 ~)
 
-## Project
+## 🔮 Projects
 ### Startup
 * World-OKTA Next Generation Global Start-up & Trade School (2021.09~2021.10)
 * EDA Startup Club (2022.03~ 2022.09)
