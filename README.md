@@ -41,6 +41,7 @@ Hello everyone 👋 I am AI engineer and Front-end programmer.
 
 ### AI
 * Ajou StudyGroup - Deeplearning (2022.03 ~ 2022.12)
-* NUOVO AI Small conference - Keras, Pytorch, OpenCV (2022.03 ~ 2022.12)
+* NUOVO AI Small conference management - Keras, Pytorch, OpenCV (2022.03 ~ 2022.12)
 * Deeplearning School in Seoul national university (2022.07 ~ 2022.08)
 * Capstone design project - about AI training helper platform (2022.09 ~ 2022.12)
+* AI Capstone design project - AI aid service for the people who have a visual impairment (2023.03 ~)
