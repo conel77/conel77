@@ -30,7 +30,7 @@ Hello everyone 👋 I am AI engineer and Front-end programmer.
 
 ## 📔 Career
 * MSPL Lab Intern (2022.12 ~)
-* NeuralWorksLab PM Intern (2023.03 ~)
+* NeuralWorksLab PM Intern (2023.03 ~ 2023.06)
 
 ## 🔮 Projects
 ### Startup
