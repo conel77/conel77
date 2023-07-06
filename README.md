@@ -35,13 +35,14 @@ Hello everyone 👋 I am AI engineer and Front-end programmer.
 ## 🔮 Projects
 ### Startup
 * World-OKTA Next Generation Global Start-up & Trade School (2021.09~2021.10)
-* EDA Startup Club - Super resolution model for restoring K-pop idols (2022.03~ 2022.09)
-* ReadyMe Onboarding PM Course (2022.03~ 2022.04)
+* EDA Startup Club - **Super resolution model for restoring K-pop idols** (2022.03~ 2022.09)
+* ReadyMe Onboarding **PM Course** (2022.03~ 2022.04)
 * Naver SmartStore (2022.09 ~)
 
 ### AI
-* Ajou StudyGroup - Deeplearning (2022.03 ~ 2022.12)
+* Capstone design project - about AI training helper platform (2022.09 ~ 2022.12) **First Award** in Ajou Univ, **Second Award** in Ajou Univ Department of Electronic Engineering
+* AI Capstone design project - AI aid service for the people who have a visual impairment (2023.03 ~ 2023.06) **Second Award** in Ajou Softcon
+* X-tal StudyGroup - Deeplearning (2022.03 ~ 2022.12)
 * NUOVO AI Small conference management - Keras, Pytorch, OpenCV (2022.03 ~ 2022.12)
 * Deeplearning School in Seoul national university (2022.07 ~ 2022.08)
-* Capstone design project - about AI training helper platform (2022.09 ~ 2022.12)
-* AI Capstone design project - AI aid service for the people who have a visual impairment (2023.03 ~ 2023.06)
+
