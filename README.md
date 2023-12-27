@@ -27,9 +27,9 @@ Hello everyone 👋 I am AI engineer and Front-end programmer.
 
 ## 📌 Education
 * B.S. Electronic Engineering & Artificial Intelligence , Ajou University 
-
+* M.S. Artificial Intelligence, Ajou University (MSPL LAB)
 ## 📔 Career
-* MSPL Lab Intern (2022.12 ~)
+* MSPL Lab Intern (2022.12 ~ 2023.12)
 * NeuralWorksLab PM Intern (2023.03 ~ 2023.06)
 
 ## 🔮 Projects
