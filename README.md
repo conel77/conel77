@@ -37,7 +37,7 @@ Hello everyone 👋 I am AI engineer and Front-end programmer.
 * World-OKTA Next Generation Global Start-up & Trade School (2021.09~2021.10)
 * EDA Startup Club - **Super resolution model for restoring K-pop idols** (2022.03~ 2022.09)
 * ReadyMe Onboarding **PM Course** (2022.03~ 2022.04)
-* Naver SmartStore (2022.09 ~)
+* Naver SmartStore (2022.09 ~ 2023.12)
 
 ### AI
 * Capstone design project - about AI training helper platform (2022.09 ~ 2022.12) **First Award** in Ajou Univ, **Second Award** in Ajou Univ Department of Electronic Engineering
