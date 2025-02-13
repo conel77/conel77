@@ -29,8 +29,9 @@ Hello everyone 👋 I am AI engineer and Product Manager.
 * B.S. Electronic Engineering & Artificial Intelligence , Ajou University (2019.03 - 2023.11)
 
 ## 📔 Career
-* MSPL Lab Intern (2022.12 ~ 2023.12)
+* coding-x AI Instructor - Image Processing and Computer Vision Lecture Recording  (2024.09 ~ 2024.11)
 * NeuralWorksLab PM Intern (2023.03 ~ 2023.06)
+* MSPL Lab Intern (2022.12 ~ 2023.12)
 
 ## 🔮 Projects
 ### Startup
