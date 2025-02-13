@@ -41,8 +41,8 @@ Hello everyone 👋 I am AI engineer and Product Manager.
 * Naver SmartStore (2022.09 ~ 2023.12)
 
 ### AI
-* Capstone design project - about AI training helper platform (2022.09 ~ 2022.12) **First Award** in Ajou Univ, **Second Award** in Ajou Univ Department of Electronic Engineering
-* AI Capstone design project - AI aid service for the people who have a visual impairment (2023.03 ~ 2023.06) **Second Award** in Ajou Softcon
+* Capstone design project - about [AI driving training helper platform](https://ecefair.ajou.ac.kr/works/works.asp?uid=206) (2022.09 ~ 2022.12) **First Award** in Ajou Univ, **Second Award** in Ajou Univ Department of Electronic Engineering
+* AI Capstone design project - [AI aid service for the people who have a visual impairment](https://softcon.ajou.ac.kr/works/works_prev.asp?uid=841&wTerm=2023-1) (2023.03 ~ 2023.06) **Second Award** in Ajou Softcon
 * X-tal StudyGroup - Deeplearning (2022.03 ~ 2022.12)
 * NUOVO AI Small conference management - Keras, Pytorch, OpenCV (2022.03 ~ 2022.12)
 * Deeplearning School in Seoul national university (2022.07 ~ 2022.08)
