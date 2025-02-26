@@ -31,7 +31,7 @@ Hello everyone 👋 I am AI engineer and Product Manager.
 ## 📔 Career
 * coding-x AI Instructor - [Image Processing and Computer Vision Lecture](https://coding-x.com/class/15270/%EB%82%B4-%EC%86%90%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B2%98%EB%A6%AC%EC%99%80-%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%B9%84%EC%A0%84-BASIC) Recording  (2024.09 ~ 2024.11)
 * NeuralWorksLab PM Intern (2023.03 ~ 2023.06)
-* MSPL Lab Intern (2022.12 ~ 2023.12)
+* VSPL Lab Intern (2022.12 ~ 2023.12)
 
 ## 🔮 Projects
 ### Startup
