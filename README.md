@@ -23,6 +23,7 @@ Hello everyone 👋 I am AI engineer and Product Manager.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conel77&show_icons=true&theme=codeSTACKr)
+<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fconel77?color=purple&label=hits&size=small" alt="hits" /></a>
 
 ## 📌 Education
 * M.S. Artificial Intelligence, Ajou University : VSPL LAB (2024.03 ~ current)
