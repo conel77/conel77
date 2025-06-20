@@ -1,8 +1,6 @@
 ## 🧚🏻‍♀️ Nice way to meet me
 
-<a href="https://conel77-log.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Vercel Blog-000000?style=flat-square&logo=Vercel&logoColor=white"/>
-</a>
+<a href="https://conel77-log.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My Vercel Blog-000000?style=flat-square&logo=Vercel&logoColor=white"/></a>
 <a href="https://velog.io/@conel77" target="_blank"><img src="https://img.shields.io/badge/Conel77-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>  
 <a href="mynameisconel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mynameisconel@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </br>
