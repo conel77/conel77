@@ -19,8 +19,6 @@ Hello everyone 👋 I am AI engineer and Product Manager.
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>      
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conel77&show_icons=true&theme=codeSTACKr)
-
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fconel77?color=purple&label=hits&size=small)](https://myhits.vercel.app)
 
 ## 📌 Education
